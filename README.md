@@ -39,5 +39,5 @@ Herramientas:
 - Postman.
 
 - [Twitter](https://twitter.com/hawer_ck)
-- [LinkedIn](www.linkedin.com/in/yon-hawer-piñeros-ck)
+- [LinkedIn](www.linkedin.com/in/yon-hawer-pineros-ck)
 - [Interacpedia](https://interacpedia.com/user/yon-hawer-pineros-mora-2)
