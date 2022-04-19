@@ -38,4 +38,6 @@ Herramientas:
 - Jira.
 - Postman.
 
-- [Twiter](https://twitter.com/hawer_ck)
+- [Twitter](https://twitter.com/hawer_ck)
+- [LinkedIn](www.linkedin.com/in/yon-hawer-piñeros-ck)
+- [Interacpedia](https://interacpedia.com/user/yon-hawer-pineros-mora-2)
