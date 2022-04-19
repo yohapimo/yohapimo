@@ -37,3 +37,5 @@ Metodologías Agiles:
 Herramientas:
 - Jira.
 - Postman.
+
+- [Twiter](https://twitter.com/hawer_ck)
