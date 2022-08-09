@@ -22,7 +22,6 @@ Con la experiencia y los conocimientos adquiridos cuento con las siguientes habi
 
 Framework:
 - Spring Boot for Java.
-- Node.js
 
 Metodologías Agiles:
 - Scrum.
