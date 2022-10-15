@@ -16,9 +16,8 @@ Con la experiencia y los conocimientos adquiridos cuento con las siguientes habi
 - Java.
 - JavaScript
 - HTML.
-- SQL
+- MySQL
 - Git y GitHub.
-- SQL.
 
 Framework:
 - Spring Boot for Java.
