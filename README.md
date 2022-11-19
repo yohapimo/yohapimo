@@ -5,7 +5,7 @@
 
 Actualmente dedicado al aprendizaje del desarrollo de software y la programación, Técnico en electrónica y telecomunicaciones con amplia experiencia en el sector de las telecomunicaciones.
 
-Gracias a esta pasión por la tecnología y el desarrollo de software participe en el programa misión tic 2022 realizado con la universidad Sergio Arboleda, enfocado en desarrollo de software con la implementación de diferentes lenguajes de programación, aprendizaje de frameworks y metodología Scrum.
+Gracias a esta pasión por la tecnología y el desarrollo de software participé en el programa misión tic 2022 realizado con la universidad Sergio Arboleda, enfocado en desarrollo de software con la implementación de diferentes lenguajes de programación, aprendizaje de frameworks y metodología Scrum.
 Enfocado en el crecimiento profesional con el aprendizaje continuo y el servicio.
 
 Poder así vincularme al maravilloso mundo de la tecnología por medio del desarrollo de software y la programación.
