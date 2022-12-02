@@ -15,7 +15,8 @@ Con la experiencia y los conocimientos adquiridos cuento con las siguientes habi
 - Soporte Técnico.
 - Java.
 - JavaScript
-- HTML.
+- HTML5.
+- CSS3
 - MySQL
 - Git y GitHub.
 
