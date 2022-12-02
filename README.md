@@ -3,12 +3,14 @@
 <!--
 **yohapimo/yohapimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Actualmente dedicado al aprendizaje del desarrollo de software y la programación, Técnico en electrónica y telecomunicaciones con amplia experiencia en el sector de las telecomunicaciones.
+Desarrollador de software en formación, con amplia experiencia en el sector de las telecomunicaciones en proyectos como soporte técnico B2B. Tengo conocimientos en
+bases de datos, marcos de trabajo ágil, manejo de control de versiones.
 
-Gracias a esta pasión por la tecnología y el desarrollo de software participé en el programa misión tic 2022 realizado con la universidad Sergio Arboleda, enfocado en desarrollo de software con la implementación de diferentes lenguajes de programación, aprendizaje de frameworks y metodología Scrum.
-Enfocado en el crecimiento profesional con el aprendizaje continuo y el servicio.
+Participé en el programa Misión tic 2022 del Ministerio de las Telecomunicaciones, estudios realizados con la universidad Sergio Arboleda,
 
-Poder así vincularme al maravilloso mundo de la tecnología por medio del desarrollo de software y la programación.
+Actualmente, me encuentro estudiando desarrollo de software con el programa de Oracle One Next Education en Alura Latam.
+Con Habilidades y competencias en orientación al resultado, atención al detalle, compromiso, trabajo en equipo, proactivo y autoaprendizaje.
+
 
 Con la experiencia y los conocimientos adquiridos cuento con las siguientes habilidades:
 - Telecomunicaciones.
