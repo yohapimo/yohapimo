@@ -12,6 +12,7 @@ Actualmente, me encuentro estudiando desarrollo de software con el programa de O
 Con Habilidades y competencias en orientación al resultado, atención al detalle, compromiso, trabajo en equipo, proactivo y autoaprendizaje.
 
 
+
 Con la experiencia y los conocimientos adquiridos cuento con las siguientes habilidades:
 - Telecomunicaciones.
 - Soporte Técnico.
