@@ -6,7 +6,7 @@
 Desarrollador de software en formación, con amplia experiencia en el sector de las telecomunicaciones en proyectos como soporte técnico B2B. Tengo conocimientos en
 bases de datos, marcos de trabajo ágil, manejo de control de versiones.
 
-Participé en el programa Misión tic 2022 del Ministerio de las Telecomunicaciones, estudios realizados con la universidad Sergio Arboleda,
+Participé en el programa Misión tic 2022 del Ministerio de las Telecomunicaciones, estudios realizados con la universidad Sergio Arboleda.
 
 Actualmente, me encuentro estudiando desarrollo de software con el programa de Oracle One Next Education en Alura Latam.
 Con Habilidades y competencias en orientación al resultado, atención al detalle, compromiso, trabajo en equipo, proactivo y autoaprendizaje.
