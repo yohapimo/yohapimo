@@ -34,6 +34,6 @@ Herramientas:
 - Postman.
 
 Contacto:
-- @hawer_ck
+- @YhawerTech
 - [Twitter](https://twitter.com/hawer_ck)
 - [LinkedIn](https://www.linkedin.com/in/yon-hawer-piñeros-ck/)
